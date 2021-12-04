@@ -41,6 +41,6 @@ Done! Now press OK and OK Again
 # GIF Showing the Aplicaton (RB 11)
 
 <p align="center">
-  <img width=400" height="300" src="images/gif.gif">
+  <img width=1366" height="768" src="images/gif.gif">
 </p>
                                                  
