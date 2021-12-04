@@ -25,9 +25,22 @@ SFX Options
 </p>
                                                  
 Change the path OPTIONAL (Need to change the source code too) The Normal is C:\Windows\Locate\
+
 Now, Go to setup and insert main.bat
+
 In modes, let it as Hide all
+
 Advanced > Request admin perms
+
 Update > No change
+
 Text and icon > The 2 options below, let it with the icon.ico
+
 Done! Now press OK and OK Again
+
+# GIF Showing the Aplicaton (RB 11)
+
+<p align="center">
+  <img width=400" height="300" src="images/gif.gif">
+</p>
+                                                 
