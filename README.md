@@ -2,9 +2,9 @@
 My customization tool
 Coded in Cpp, Batch.
                   
-                  It's your responsability if you insert a malware on it recommend download by the github in release
+                  It's your responsability if you insert a malware on it recommended download by the github in release
                   
-#How to make it be a exe
+# How to make it be a exe
 Download WinRAR 
 Now make a sfx file and a exe, by modding some options (Press add to archive after selecting some files)
 <p align="center">
