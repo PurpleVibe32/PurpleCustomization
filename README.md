@@ -8,20 +8,20 @@ Coded in Cpp, Batch.
 Download WinRAR 
 Now make a sfx file and a exe, by modding some options (Press add to archive after selecting some files)
 <p align="center">
-  <img width=400" height="300" src="images/1.png">
+  <img src="images/1.png">
 </p>
 
 
 After clicking on it, mark these 2 options
 
 <p align="center">
-  <img width=400" height="300" src="images/2.png">
+  <img src="images/2.png">
 </p>
 Go to Advanced
 SFX Options
 
 <p align="center">
-  <img width=400" height="300" src="images/3.png">
+  <img src="images/3.png">
 </p>
                                                  
 Change the path OPTIONAL (Need to change the source code too)
