@@ -24,7 +24,7 @@ SFX Options
   <img src="images/3.png">
 </p>
                                                  
-Change the path OPTIONAL (Need to change the source code too)
+Change the path OPTIONAL (Need to change the source code too) The Normal is C:\Windows\Locate\
 Now, Go to setup and insert main.bat
 In modes, let it as Hide all
 Advanced > Request admin perms
